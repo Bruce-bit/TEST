@@ -4,3 +4,6 @@ for x in range(7) :
 print(L)
 print("pull request modify")
 print("+++++modify")
+
+def fine():
+    print("changes")
